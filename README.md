@@ -1,0 +1,1 @@
+# This is a project which is solely based on the projects done in famous book Automate the boring stuff
